@@ -1,3 +1,6 @@
+
+this project is live at https://incredible-yeot-745f22.netlify.app/
+
 in this repo inside the components directory, there are two components one is DynWelMsg and the second is Calculator
 
 DynWelMsg -: contains React code which shows Dynamic message to the user at which time he is visiting the page. if it's morning then welcomed by "Good mourning". if it's noon time then welcomed by "Good afternoon". same as evening time visiting "Good Evening" on screen
